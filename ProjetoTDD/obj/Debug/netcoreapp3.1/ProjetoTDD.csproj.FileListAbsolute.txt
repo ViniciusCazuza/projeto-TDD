@@ -1,0 +1,14 @@
+C:\Users\ELAINE HEYEK\Desktop\ProjetoTDD\ProjetoTDD\bin\Debug\netcoreapp3.1\ProjetoTDD.exe
+C:\Users\ELAINE HEYEK\Desktop\ProjetoTDD\ProjetoTDD\bin\Debug\netcoreapp3.1\ProjetoTDD.deps.json
+C:\Users\ELAINE HEYEK\Desktop\ProjetoTDD\ProjetoTDD\bin\Debug\netcoreapp3.1\ProjetoTDD.runtimeconfig.json
+C:\Users\ELAINE HEYEK\Desktop\ProjetoTDD\ProjetoTDD\bin\Debug\netcoreapp3.1\ProjetoTDD.runtimeconfig.dev.json
+C:\Users\ELAINE HEYEK\Desktop\ProjetoTDD\ProjetoTDD\bin\Debug\netcoreapp3.1\ProjetoTDD.dll
+C:\Users\ELAINE HEYEK\Desktop\ProjetoTDD\ProjetoTDD\bin\Debug\netcoreapp3.1\ProjetoTDD.pdb
+C:\Users\ELAINE HEYEK\Desktop\ProjetoTDD\ProjetoTDD\obj\Debug\netcoreapp3.1\ProjetoTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELAINE HEYEK\Desktop\ProjetoTDD\ProjetoTDD\obj\Debug\netcoreapp3.1\ProjetoTDD.AssemblyInfoInputs.cache
+C:\Users\ELAINE HEYEK\Desktop\ProjetoTDD\ProjetoTDD\obj\Debug\netcoreapp3.1\ProjetoTDD.AssemblyInfo.cs
+C:\Users\ELAINE HEYEK\Desktop\ProjetoTDD\ProjetoTDD\obj\Debug\netcoreapp3.1\ProjetoTDD.csproj.CoreCompileInputs.cache
+C:\Users\ELAINE HEYEK\Desktop\ProjetoTDD\ProjetoTDD\obj\Debug\netcoreapp3.1\ProjetoTDD.sourcelink.json
+C:\Users\ELAINE HEYEK\Desktop\ProjetoTDD\ProjetoTDD\obj\Debug\netcoreapp3.1\ProjetoTDD.dll
+C:\Users\ELAINE HEYEK\Desktop\ProjetoTDD\ProjetoTDD\obj\Debug\netcoreapp3.1\ProjetoTDD.pdb
+C:\Users\ELAINE HEYEK\Desktop\ProjetoTDD\ProjetoTDD\obj\Debug\netcoreapp3.1\ProjetoTDD.genruntimeconfig.cache

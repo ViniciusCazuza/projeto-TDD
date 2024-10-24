@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoTDD", "ProjetoTDD\ProjetoTDD.csproj", "{251ECD3C-7F0B-41D8-82C5-1BF8E81BC53D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoTDDTeste", "ProjetoTDDTeste\ProjetoTDDTeste.csproj", "{C36E0BDF-F7B5-4F64-AE71-6AF798F3BCD9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{251ECD3C-7F0B-41D8-82C5-1BF8E81BC53D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{251ECD3C-7F0B-41D8-82C5-1BF8E81BC53D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{251ECD3C-7F0B-41D8-82C5-1BF8E81BC53D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C36E0BDF-F7B5-4F64-AE71-6AF798F3BCD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C36E0BDF-F7B5-4F64-AE71-6AF798F3BCD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C36E0BDF-F7B5-4F64-AE71-6AF798F3BCD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C36E0BDF-F7B5-4F64-AE71-6AF798F3BCD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
