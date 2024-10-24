@@ -26,7 +26,7 @@ Este projeto demonstra a aplicação de TDD (Test-Driven Development) na criaç�
 
 ### Pré-requisitos
 
-- .NET SDK 6.0 ou superior instalado.
+- .NET SDK 3.1 Core ou superior instalado.
 
 ### Passos
 
